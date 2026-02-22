@@ -1,0 +1,15 @@
+{
+  "name": "ultra-real-processor-backend-qeo",
+  "version": "1.0.0",
+  "description": "Containerized microservice with Kubernetes support",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test"
+  },
+  "keywords": ["ai", "infrastructure"],
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}
